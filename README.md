@@ -81,6 +81,22 @@ A responsive calculator application built using:
 * CSS
 * JavaScript
 
+### Live Weather App
+
+A responsive live weather application built using:
+
+*HTML
+*CSS
+*JavaScript
+*Open-Meteo API
+
+FEATURES:
+* Live Data
+* Search city
+* Open-Meteo API which does not require an API KEY
+* Live current weather & 5 day forecast
+* Works on desktop and mobile
+
 #### Cybersecurity Portfolio
 
 Collection of cybersecurity labs, reports, and practical exercises including:
