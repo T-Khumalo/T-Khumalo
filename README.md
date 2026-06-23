@@ -102,19 +102,19 @@ FEATURES:
  Backend system using JWT Authentication, CRUD operations, Rest API Endpoints
 
 Technologies used:
-  *HTML
-  *JavaScript
-  *CSS
-  *Rest API
-  *NodeJS
-  *ExpressJS
-  *SQLite
-  *JsonWebToken
+  * HTML
+  * JavaScript
+  * CSS
+  * Rest API
+  * NodeJS
+  * ExpressJS
+  * SQLite
+  * JsonWebToken
 
 Features:
-  *Login page / Signup page
-  *Database to keep track of users and todos
-  *Session tokens
+  * Login page / Signup page
+  * Database to keep track of users and todos
+  * Session tokens
 
 #### Cybersecurity Portfolio
 
