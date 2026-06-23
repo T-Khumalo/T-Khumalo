@@ -97,6 +97,25 @@ FEATURES:
 * Live current weather & 5 day forecast
 * Works on desktop and mobile
 
+### Todo App
+ Todo App- Full stack 
+ Backend system using JWT Authentication, CRUD operations, Rest API Endpoints
+
+Technologies used:
+  *HTML
+  *JavaScript
+  *CSS
+  *Rest API
+  *NodeJS
+  *ExpressJS
+  *SQLite
+  *JsonWebToken
+
+Features:
+  *Login page / Signup page
+  *Database to keep track of users and todos
+  *Session tokens
+
 #### Cybersecurity Portfolio
 
 Collection of cybersecurity labs, reports, and practical exercises including:
