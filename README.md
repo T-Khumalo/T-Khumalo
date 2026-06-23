@@ -85,10 +85,10 @@ A responsive calculator application built using:
 
 A responsive live weather application built using:
 
-*HTML
-*CSS
-*JavaScript
-*Open-Meteo API
+* HTML
+* CSS
+* JavaScript
+* Open-Meteo API
 
 FEATURES:
 * Live Data
